@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F3D66" />
+      <stop offset="100%" stop-color="#082038" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#2563EB" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Rounded Base Background -->
+  <rect width="512" height="512" rx="108" fill="url(#bgGrad)" />
+  
+  <!-- Outer Gold Defense Ring -->
+  <circle cx="256" cy="256" r="210" fill="none" stroke="#F59E0B" stroke-width="4" stroke-dasharray="16 8" opacity="0.4" />
+  
+  <!-- Shield Outline -->
+  <path d="M256 70 L390 130 C390 280 256 390 256 420 C256 390 122 280 122 130 Z" fill="#0A2540" stroke="#38BDF8" stroke-width="12" stroke-linejoin="round" />
+  
+  <!-- Radar Wave Rings inside Shield -->
+  <path d="M196 230 A 65 65 0 0 1 316 230" fill="none" stroke="url(#accentGrad)" stroke-width="8" stroke-linecap="round" />
+  <path d="M166 200 A 100 100 0 0 1 346 200" fill="none" stroke="url(#accentGrad)" stroke-width="8" stroke-linecap="round" opacity="0.7" />
+  <path d="M136 170 A 135 135 0 0 1 376 170" fill="none" stroke="url(#accentGrad)" stroke-width="8" stroke-linecap="round" opacity="0.4" />
+  
+  <!-- Netra / Third Eye Iris -->
+  <ellipse cx="256" cy="260" rx="46" ry="30" fill="#0F3D66" stroke="#38BDF8" stroke-width="6" />
+  <circle cx="256" cy="260" r="16" fill="#F59E0B" />
+  
+  <!-- Rainfall Drop Streams -->
+  <path d="M200 330 L185 365" stroke="#38BDF8" stroke-width="8" stroke-linecap="round" />
+  <path d="M256 345 L256 385" stroke="#38BDF8" stroke-width="10" stroke-linecap="round" />
+  <path d="M312 330 L327 365" stroke="#38BDF8" stroke-width="8" stroke-linecap="round" />
+  
+  <!-- Inscription Text -->
+  <text x="256" y="475" text-anchor="middle" fill="#E2E8F0" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="34" letter-spacing="4">VARSHANETRA</text>
+</svg>

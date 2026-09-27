@@ -1,0 +1,3883 @@
+{
+  "region": "Pune District Command Sector",
+  "bbox": {
+    "minLat": 18.3,
+    "maxLat": 18.74,
+    "minLon": 73.66,
+    "maxLon": 74.06
+  },
+  "gridResolutionDeg": 0.02,
+  "generatedAt": "2026-09-11T17:28:48.025Z",
+  "source": "NASA SRTM 90m & Copernicus GLO-30 Seamless DEM via Open-Meteo API (Public Domain / CC BY 4.0)",
+  "elevationStats": {
+    "minMeters": 522,
+    "maxMeters": 1152,
+    "meanMeters": 662.2
+  },
+  "points": [
+    {
+      "lat": 18.3,
+      "lon": 73.66,
+      "elevation": 673,
+      "slopePercent": 2.25,
+      "slopeDegrees": 1.29,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.3,
+      "lon": 73.68,
+      "elevation": 676,
+      "slopePercent": 6.49,
+      "slopeDegrees": 3.71,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.3,
+      "lon": 73.7,
+      "elevation": 690,
+      "slopePercent": 5.09,
+      "slopeDegrees": 2.91,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.3,
+      "lon": 73.72,
+      "elevation": 706,
+      "slopePercent": 7.07,
+      "slopeDegrees": 4.04,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.3,
+      "lon": 73.74,
+      "elevation": 805,
+      "slopePercent": 8.04,
+      "slopeDegrees": 4.6,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.3,
+      "lon": 73.76,
+      "elevation": 765,
+      "slopePercent": 6.48,
+      "slopeDegrees": 3.71,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.3,
+      "lon": 73.78,
+      "elevation": 798,
+      "slopePercent": 2.42,
+      "slopeDegrees": 1.39,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.3,
+      "lon": 73.8,
+      "elevation": 846,
+      "slopePercent": 7.3,
+      "slopeDegrees": 4.17,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.3,
+      "lon": 73.82,
+      "elevation": 963,
+      "slopePercent": 6.89,
+      "slopeDegrees": 3.94,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.3,
+      "lon": 73.84,
+      "elevation": 811,
+      "slopePercent": 7.31,
+      "slopeDegrees": 4.18,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.3,
+      "lon": 73.86,
+      "elevation": 696,
+      "slopePercent": 2.46,
+      "slopeDegrees": 1.41,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.3,
+      "lon": 73.88,
+      "elevation": 761,
+      "slopePercent": 1.53,
+      "slopeDegrees": 0.88,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.3,
+      "lon": 73.9,
+      "elevation": 733,
+      "slopePercent": 8.02,
+      "slopeDegrees": 4.59,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.3,
+      "lon": 73.92,
+      "elevation": 843,
+      "slopePercent": 3.1,
+      "slopeDegrees": 1.78,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.3,
+      "lon": 73.94,
+      "elevation": 864,
+      "slopePercent": 7.33,
+      "slopeDegrees": 4.19,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.3,
+      "lon": 73.96,
+      "elevation": 1152,
+      "slopePercent": 11.71,
+      "slopeDegrees": 6.68,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.3,
+      "lon": 73.98,
+      "elevation": 884,
+      "slopePercent": 7.16,
+      "slopeDegrees": 4.09,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.3,
+      "lon": 74,
+      "elevation": 863,
+      "slopePercent": 2.42,
+      "slopeDegrees": 1.39,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.3,
+      "lon": 74.02,
+      "elevation": 838,
+      "slopePercent": 2.6,
+      "slopeDegrees": 1.49,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.3,
+      "lon": 74.04,
+      "elevation": 808,
+      "slopePercent": 1.67,
+      "slopeDegrees": 0.95,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.3,
+      "lon": 74.06,
+      "elevation": 806,
+      "slopePercent": 2.21,
+      "slopeDegrees": 1.26,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.32,
+      "lon": 73.66,
+      "elevation": 723,
+      "slopePercent": 9.56,
+      "slopeDegrees": 5.46,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.32,
+      "lon": 73.68,
+      "elevation": 820,
+      "slopePercent": 4.34,
+      "slopeDegrees": 2.48,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.32,
+      "lon": 73.7,
+      "elevation": 802,
+      "slopePercent": 0.98,
+      "slopeDegrees": 0.56,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.32,
+      "lon": 73.72,
+      "elevation": 851,
+      "slopePercent": 4.32,
+      "slopeDegrees": 2.47,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.32,
+      "lon": 73.74,
+      "elevation": 981,
+      "slopePercent": 4.53,
+      "slopeDegrees": 2.59,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.32,
+      "lon": 73.76,
+      "elevation": 909,
+      "slopePercent": 4.3,
+      "slopeDegrees": 2.46,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.32,
+      "lon": 73.78,
+      "elevation": 831,
+      "slopePercent": 1.91,
+      "slopeDegrees": 1.09,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.32,
+      "lon": 73.8,
+      "elevation": 983,
+      "slopePercent": 1.37,
+      "slopeDegrees": 0.78,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.32,
+      "lon": 73.82,
+      "elevation": 811,
+      "slopePercent": 7.37,
+      "slopeDegrees": 4.22,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.32,
+      "lon": 73.84,
+      "elevation": 729,
+      "slopePercent": 2.05,
+      "slopeDegrees": 1.18,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.32,
+      "lon": 73.86,
+      "elevation": 744,
+      "slopePercent": 2.27,
+      "slopeDegrees": 1.3,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.32,
+      "lon": 73.88,
+      "elevation": 789,
+      "slopePercent": 4.6,
+      "slopeDegrees": 2.63,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.32,
+      "lon": 73.9,
+      "elevation": 906,
+      "slopePercent": 4.53,
+      "slopeDegrees": 2.59,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.32,
+      "lon": 73.92,
+      "elevation": 847,
+      "slopePercent": 1.2,
+      "slopeDegrees": 0.69,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.32,
+      "lon": 73.94,
+      "elevation": 875,
+      "slopePercent": 1.12,
+      "slopeDegrees": 0.64,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.32,
+      "lon": 73.96,
+      "elevation": 892,
+      "slopePercent": 7.3,
+      "slopeDegrees": 4.17,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.32,
+      "lon": 73.98,
+      "elevation": 837,
+      "slopePercent": 2.58,
+      "slopeDegrees": 1.48,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.32,
+      "lon": 74,
+      "elevation": 815,
+      "slopePercent": 2.1,
+      "slopeDegrees": 1.2,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.32,
+      "lon": 74.02,
+      "elevation": 788,
+      "slopePercent": 1.72,
+      "slopeDegrees": 0.99,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.32,
+      "lon": 74.04,
+      "elevation": 775,
+      "slopePercent": 1.36,
+      "slopeDegrees": 0.78,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.32,
+      "lon": 74.06,
+      "elevation": 757,
+      "slopePercent": 1.65,
+      "slopeDegrees": 0.95,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.34,
+      "lon": 73.66,
+      "elevation": 1046,
+      "slopePercent": 9.33,
+      "slopeDegrees": 5.33,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.34,
+      "lon": 73.68,
+      "elevation": 850,
+      "slopePercent": 7.76,
+      "slopeDegrees": 4.44,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.34,
+      "lon": 73.7,
+      "elevation": 719,
+      "slopePercent": 2.88,
+      "slopeDegrees": 1.65,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.34,
+      "lon": 73.72,
+      "elevation": 743,
+      "slopePercent": 7.69,
+      "slopeDegrees": 4.4,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.34,
+      "lon": 73.74,
+      "elevation": 997,
+      "slopePercent": 4.48,
+      "slopeDegrees": 2.57,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.34,
+      "lon": 73.76,
+      "elevation": 873,
+      "slopePercent": 4.81,
+      "slopeDegrees": 2.75,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.34,
+      "lon": 73.78,
+      "elevation": 832,
+      "slopePercent": 3.12,
+      "slopeDegrees": 1.79,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.34,
+      "lon": 73.8,
+      "elevation": 789,
+      "slopePercent": 1.47,
+      "slopeDegrees": 0.84,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.34,
+      "lon": 73.82,
+      "elevation": 773,
+      "slopePercent": 1.03,
+      "slopeDegrees": 0.59,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.34,
+      "lon": 73.84,
+      "elevation": 753,
+      "slopePercent": 1.46,
+      "slopeDegrees": 0.84,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.34,
+      "lon": 73.86,
+      "elevation": 775,
+      "slopePercent": 3.02,
+      "slopeDegrees": 1.73,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.34,
+      "lon": 73.88,
+      "elevation": 874,
+      "slopePercent": 5.75,
+      "slopeDegrees": 3.29,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.34,
+      "lon": 73.9,
+      "elevation": 925,
+      "slopePercent": 0.92,
+      "slopeDegrees": 0.52,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.34,
+      "lon": 73.92,
+      "elevation": 885,
+      "slopePercent": 2.23,
+      "slopeDegrees": 1.28,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.34,
+      "lon": 73.94,
+      "elevation": 849,
+      "slopePercent": 1.3,
+      "slopeDegrees": 0.75,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.34,
+      "lon": 73.96,
+      "elevation": 830,
+      "slopePercent": 1.33,
+      "slopeDegrees": 0.76,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.34,
+      "lon": 73.98,
+      "elevation": 803,
+      "slopePercent": 1.16,
+      "slopeDegrees": 0.66,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.34,
+      "lon": 74,
+      "elevation": 785,
+      "slopePercent": 0.72,
+      "slopeDegrees": 0.41,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.34,
+      "lon": 74.02,
+      "elevation": 774,
+      "slopePercent": 0.76,
+      "slopeDegrees": 0.44,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.34,
+      "lon": 74.04,
+      "elevation": 757,
+      "slopePercent": 0.78,
+      "slopeDegrees": 0.45,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.34,
+      "lon": 74.06,
+      "elevation": 743,
+      "slopePercent": 0.75,
+      "slopeDegrees": 0.43,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.36,
+      "lon": 73.66,
+      "elevation": 768,
+      "slopePercent": 9.39,
+      "slopeDegrees": 5.37,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.36,
+      "lon": 73.68,
+      "elevation": 794,
+      "slopePercent": 3.17,
+      "slopeDegrees": 1.82,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.36,
+      "lon": 73.7,
+      "elevation": 741,
+      "slopePercent": 3.58,
+      "slopeDegrees": 2.05,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.36,
+      "lon": 73.72,
+      "elevation": 674,
+      "slopePercent": 2.51,
+      "slopeDegrees": 1.44,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.36,
+      "lon": 73.74,
+      "elevation": 836,
+      "slopePercent": 11.15,
+      "slopeDegrees": 6.36,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.36,
+      "lon": 73.76,
+      "elevation": 1034,
+      "slopePercent": 3.25,
+      "slopeDegrees": 1.86,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.36,
+      "lon": 73.78,
+      "elevation": 938,
+      "slopePercent": 1.74,
+      "slopeDegrees": 1,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.36,
+      "lon": 73.8,
+      "elevation": 1003,
+      "slopePercent": 4.06,
+      "slopeDegrees": 2.33,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.36,
+      "lon": 73.82,
+      "elevation": 837,
+      "slopePercent": 5.32,
+      "slopeDegrees": 3.04,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.36,
+      "lon": 73.84,
+      "elevation": 794,
+      "slopePercent": 2.87,
+      "slopeDegrees": 1.64,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.36,
+      "lon": 73.86,
+      "elevation": 787,
+      "slopePercent": 4.74,
+      "slopeDegrees": 2.71,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.36,
+      "lon": 73.88,
+      "elevation": 990,
+      "slopePercent": 3.74,
+      "slopeDegrees": 2.14,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.36,
+      "lon": 73.9,
+      "elevation": 945,
+      "slopePercent": 2,
+      "slopeDegrees": 1.15,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.36,
+      "lon": 73.92,
+      "elevation": 906,
+      "slopePercent": 1.85,
+      "slopeDegrees": 1.06,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.36,
+      "lon": 73.94,
+      "elevation": 871,
+      "slopePercent": 1.16,
+      "slopeDegrees": 0.66,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.36,
+      "lon": 73.96,
+      "elevation": 858,
+      "slopePercent": 1.32,
+      "slopeDegrees": 0.75,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.36,
+      "lon": 73.98,
+      "elevation": 817,
+      "slopePercent": 1.37,
+      "slopeDegrees": 0.79,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.36,
+      "lon": 74,
+      "elevation": 805,
+      "slopePercent": 0.71,
+      "slopeDegrees": 0.41,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.36,
+      "lon": 74.02,
+      "elevation": 805,
+      "slopePercent": 1.07,
+      "slopeDegrees": 0.61,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.36,
+      "lon": 74.04,
+      "elevation": 763,
+      "slopePercent": 1.06,
+      "slopeDegrees": 0.61,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.36,
+      "lon": 74.06,
+      "elevation": 773,
+      "slopePercent": 2.01,
+      "slopeDegrees": 1.15,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.38,
+      "lon": 73.66,
+      "elevation": 632,
+      "slopePercent": 3.98,
+      "slopeDegrees": 2.28,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.38,
+      "lon": 73.68,
+      "elevation": 712,
+      "slopePercent": 3.81,
+      "slopeDegrees": 2.18,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.38,
+      "lon": 73.7,
+      "elevation": 622,
+      "slopePercent": 3.65,
+      "slopeDegrees": 2.09,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.38,
+      "lon": 73.72,
+      "elevation": 693,
+      "slopePercent": 1.88,
+      "slopeDegrees": 1.07,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.38,
+      "lon": 73.74,
+      "elevation": 677,
+      "slopePercent": 7.87,
+      "slopeDegrees": 4.5,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.38,
+      "lon": 73.76,
+      "elevation": 970,
+      "slopePercent": 7.06,
+      "slopeDegrees": 4.04,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.38,
+      "lon": 73.78,
+      "elevation": 762,
+      "slopePercent": 6,
+      "slopeDegrees": 3.43,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.38,
+      "lon": 73.8,
+      "elevation": 935,
+      "slopePercent": 6.48,
+      "slopeDegrees": 3.71,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.38,
+      "lon": 73.82,
+      "elevation": 860,
+      "slopePercent": 3.12,
+      "slopeDegrees": 1.79,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.38,
+      "lon": 73.84,
+      "elevation": 869,
+      "slopePercent": 3.78,
+      "slopeDegrees": 2.16,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.38,
+      "lon": 73.86,
+      "elevation": 818,
+      "slopePercent": 3.75,
+      "slopeDegrees": 2.15,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.38,
+      "lon": 73.88,
+      "elevation": 882,
+      "slopePercent": 2.81,
+      "slopeDegrees": 1.61,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.38,
+      "lon": 73.9,
+      "elevation": 935,
+      "slopePercent": 0.72,
+      "slopeDegrees": 0.41,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.38,
+      "lon": 73.92,
+      "elevation": 912,
+      "slopePercent": 1.83,
+      "slopeDegrees": 1.05,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.38,
+      "lon": 73.94,
+      "elevation": 859,
+      "slopePercent": 1.61,
+      "slopeDegrees": 0.92,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.38,
+      "lon": 73.96,
+      "elevation": 844,
+      "slopePercent": 0.74,
+      "slopeDegrees": 0.42,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.38,
+      "lon": 73.98,
+      "elevation": 828,
+      "slopePercent": 2.81,
+      "slopeDegrees": 1.61,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.38,
+      "lon": 74,
+      "elevation": 814,
+      "slopePercent": 1.18,
+      "slopeDegrees": 0.67,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.38,
+      "lon": 74.02,
+      "elevation": 792,
+      "slopePercent": 0.58,
+      "slopeDegrees": 0.33,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.38,
+      "lon": 74.04,
+      "elevation": 790,
+      "slopePercent": 3.28,
+      "slopeDegrees": 1.88,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.38,
+      "lon": 74.06,
+      "elevation": 830,
+      "slopePercent": 2.34,
+      "slopeDegrees": 1.34,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.4,
+      "lon": 73.66,
+      "elevation": 713,
+      "slopePercent": 4.21,
+      "slopeDegrees": 2.41,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.4,
+      "lon": 73.68,
+      "elevation": 625,
+      "slopePercent": 4.7,
+      "slopeDegrees": 2.69,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.4,
+      "lon": 73.7,
+      "elevation": 580,
+      "slopePercent": 2.96,
+      "slopeDegrees": 1.69,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.4,
+      "lon": 73.72,
+      "elevation": 614,
+      "slopePercent": 2.39,
+      "slopeDegrees": 1.37,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.4,
+      "lon": 73.74,
+      "elevation": 642,
+      "slopePercent": 3.56,
+      "slopeDegrees": 2.04,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.4,
+      "lon": 73.76,
+      "elevation": 733,
+      "slopePercent": 8.11,
+      "slopeDegrees": 4.64,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.4,
+      "lon": 73.78,
+      "elevation": 674,
+      "slopePercent": 0.23,
+      "slopeDegrees": 0.13,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.4,
+      "lon": 73.8,
+      "elevation": 734,
+      "slopePercent": 9.41,
+      "slopeDegrees": 5.38,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.4,
+      "lon": 73.82,
+      "elevation": 957,
+      "slopePercent": 5.98,
+      "slopeDegrees": 3.42,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.4,
+      "lon": 73.84,
+      "elevation": 956,
+      "slopePercent": 3.06,
+      "slopeDegrees": 1.75,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.4,
+      "lon": 73.86,
+      "elevation": 953,
+      "slopePercent": 1.85,
+      "slopeDegrees": 1.06,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.4,
+      "lon": 73.88,
+      "elevation": 970,
+      "slopePercent": 3.49,
+      "slopeDegrees": 2,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.4,
+      "lon": 73.9,
+      "elevation": 949,
+      "slopePercent": 4.57,
+      "slopeDegrees": 2.62,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.4,
+      "lon": 73.92,
+      "elevation": 922,
+      "slopePercent": 4.4,
+      "slopeDegrees": 2.52,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.4,
+      "lon": 73.94,
+      "elevation": 876,
+      "slopePercent": 3.93,
+      "slopeDegrees": 2.25,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.4,
+      "lon": 73.96,
+      "elevation": 862,
+      "slopePercent": 3.82,
+      "slopeDegrees": 2.19,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.4,
+      "lon": 73.98,
+      "elevation": 938,
+      "slopePercent": 3.95,
+      "slopeDegrees": 2.26,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.4,
+      "lon": 74,
+      "elevation": 841,
+      "slopePercent": 3.91,
+      "slopeDegrees": 2.24,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.4,
+      "lon": 74.02,
+      "elevation": 811,
+      "slopePercent": 2.01,
+      "slopeDegrees": 1.15,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.4,
+      "lon": 74.04,
+      "elevation": 903,
+      "slopePercent": 0.85,
+      "slopeDegrees": 0.49,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.4,
+      "lon": 74.06,
+      "elevation": 834,
+      "slopePercent": 4.11,
+      "slopeDegrees": 2.35,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.42,
+      "lon": 73.66,
+      "elevation": 604,
+      "slopePercent": 12.46,
+      "slopeDegrees": 7.1,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.42,
+      "lon": 73.68,
+      "elevation": 867,
+      "slopePercent": 7.34,
+      "slopeDegrees": 4.2,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.42,
+      "lon": 73.7,
+      "elevation": 753,
+      "slopePercent": 6.52,
+      "slopeDegrees": 3.73,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.42,
+      "lon": 73.72,
+      "elevation": 609,
+      "slopePercent": 5.18,
+      "slopeDegrees": 2.97,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.42,
+      "lon": 73.74,
+      "elevation": 580,
+      "slopePercent": 2.43,
+      "slopeDegrees": 1.39,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.42,
+      "lon": 73.76,
+      "elevation": 611,
+      "slopePercent": 5.22,
+      "slopeDegrees": 2.99,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.42,
+      "lon": 73.78,
+      "elevation": 752,
+      "slopePercent": 2.1,
+      "slopeDegrees": 1.2,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.42,
+      "lon": 73.8,
+      "elevation": 641,
+      "slopePercent": 1.94,
+      "slopeDegrees": 1.11,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.42,
+      "lon": 73.82,
+      "elevation": 733,
+      "slopePercent": 8.02,
+      "slopeDegrees": 4.58,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.42,
+      "lon": 73.84,
+      "elevation": 733,
+      "slopePercent": 6.57,
+      "slopeDegrees": 3.76,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.42,
+      "lon": 73.86,
+      "elevation": 737,
+      "slopePercent": 6.48,
+      "slopeDegrees": 3.71,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.42,
+      "lon": 73.88,
+      "elevation": 727,
+      "slopePercent": 6.28,
+      "slopeDegrees": 3.59,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.42,
+      "lon": 73.9,
+      "elevation": 738,
+      "slopePercent": 6.03,
+      "slopeDegrees": 3.45,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.42,
+      "lon": 73.92,
+      "elevation": 732,
+      "slopePercent": 6.18,
+      "slopeDegrees": 3.53,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.42,
+      "lon": 73.94,
+      "elevation": 696,
+      "slopePercent": 5.83,
+      "slopeDegrees": 3.34,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.42,
+      "lon": 73.96,
+      "elevation": 687,
+      "slopePercent": 5.73,
+      "slopeDegrees": 3.28,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.42,
+      "lon": 73.98,
+      "elevation": 654,
+      "slopePercent": 7.37,
+      "slopeDegrees": 4.21,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.42,
+      "lon": 74,
+      "elevation": 703,
+      "slopePercent": 6.9,
+      "slopeDegrees": 3.95,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.42,
+      "lon": 74.02,
+      "elevation": 853,
+      "slopePercent": 4.62,
+      "slopeDegrees": 2.64,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.42,
+      "lon": 74.04,
+      "elevation": 819,
+      "slopePercent": 7.05,
+      "slopeDegrees": 4.03,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.42,
+      "lon": 74.06,
+      "elevation": 719,
+      "slopePercent": 6.77,
+      "slopeDegrees": 3.87,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.44,
+      "lon": 73.66,
+      "elevation": 695,
+      "slopePercent": 11.37,
+      "slopeDegrees": 6.49,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.44,
+      "lon": 73.68,
+      "elevation": 911,
+      "slopePercent": 0.77,
+      "slopeDegrees": 0.44,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.44,
+      "lon": 73.7,
+      "elevation": 681,
+      "slopePercent": 3.77,
+      "slopeDegrees": 2.16,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.44,
+      "lon": 73.72,
+      "elevation": 755,
+      "slopePercent": 2.65,
+      "slopeDegrees": 1.52,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.44,
+      "lon": 73.74,
+      "elevation": 750,
+      "slopePercent": 4.09,
+      "slopeDegrees": 2.34,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.44,
+      "lon": 73.76,
+      "elevation": 588,
+      "slopePercent": 3.93,
+      "slopeDegrees": 2.25,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.44,
+      "lon": 73.78,
+      "elevation": 586,
+      "slopePercent": 4.73,
+      "slopeDegrees": 2.71,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.44,
+      "lon": 73.8,
+      "elevation": 650,
+      "slopePercent": 1.83,
+      "slopeDegrees": 1.05,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.44,
+      "lon": 73.82,
+      "elevation": 614,
+      "slopePercent": 3.32,
+      "slopeDegrees": 1.9,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.44,
+      "lon": 73.84,
+      "elevation": 664,
+      "slopePercent": 1.91,
+      "slopeDegrees": 1.1,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.44,
+      "lon": 73.86,
+      "elevation": 665,
+      "slopePercent": 1.85,
+      "slopeDegrees": 1.06,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.44,
+      "lon": 73.88,
+      "elevation": 691,
+      "slopePercent": 1.49,
+      "slopeDegrees": 0.85,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.44,
+      "lon": 73.9,
+      "elevation": 681,
+      "slopePercent": 2.44,
+      "slopeDegrees": 1.4,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.44,
+      "lon": 73.92,
+      "elevation": 651,
+      "slopePercent": 2.38,
+      "slopeDegrees": 1.36,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.44,
+      "lon": 73.94,
+      "elevation": 621,
+      "slopePercent": 1.78,
+      "slopeDegrees": 1.02,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.44,
+      "lon": 73.96,
+      "elevation": 611,
+      "slopePercent": 2.19,
+      "slopeDegrees": 1.26,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.44,
+      "lon": 73.98,
+      "elevation": 611,
+      "slopePercent": 1.56,
+      "slopeDegrees": 0.89,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.44,
+      "lon": 74,
+      "elevation": 617,
+      "slopePercent": 2.91,
+      "slopeDegrees": 1.67,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.44,
+      "lon": 74.02,
+      "elevation": 646,
+      "slopePercent": 6.08,
+      "slopeDegrees": 3.48,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.44,
+      "lon": 74.04,
+      "elevation": 623,
+      "slopePercent": 5.53,
+      "slopeDegrees": 3.16,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.44,
+      "lon": 74.06,
+      "elevation": 619,
+      "slopePercent": 3.09,
+      "slopeDegrees": 1.77,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.46,
+      "lon": 73.66,
+      "elevation": 825,
+      "slopePercent": 1,
+      "slopeDegrees": 0.57,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.46,
+      "lon": 73.68,
+      "elevation": 836,
+      "slopePercent": 4.5,
+      "slopeDegrees": 2.58,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.46,
+      "lon": 73.7,
+      "elevation": 720,
+      "slopePercent": 3.58,
+      "slopeDegrees": 2.05,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.46,
+      "lon": 73.72,
+      "elevation": 702,
+      "slopePercent": 2.28,
+      "slopeDegrees": 1.31,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.46,
+      "lon": 73.74,
+      "elevation": 626,
+      "slopePercent": 3.38,
+      "slopeDegrees": 1.94,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.46,
+      "lon": 73.76,
+      "elevation": 583,
+      "slopePercent": 2.07,
+      "slopeDegrees": 1.19,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.46,
+      "lon": 73.78,
+      "elevation": 552,
+      "slopePercent": 1.12,
+      "slopeDegrees": 0.64,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.46,
+      "lon": 73.8,
+      "elevation": 565,
+      "slopePercent": 1.85,
+      "slopeDegrees": 1.06,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.46,
+      "lon": 73.82,
+      "elevation": 586,
+      "slopePercent": 2.71,
+      "slopeDegrees": 1.55,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.46,
+      "lon": 73.84,
+      "elevation": 667,
+      "slopePercent": 1.78,
+      "slopeDegrees": 1.02,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.46,
+      "lon": 73.86,
+      "elevation": 660,
+      "slopePercent": 1.42,
+      "slopeDegrees": 0.81,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.46,
+      "lon": 73.88,
+      "elevation": 663,
+      "slopePercent": 0.93,
+      "slopeDegrees": 0.53,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.46,
+      "lon": 73.9,
+      "elevation": 638,
+      "slopePercent": 1.55,
+      "slopeDegrees": 0.89,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.46,
+      "lon": 73.92,
+      "elevation": 647,
+      "slopePercent": 1.37,
+      "slopeDegrees": 0.78,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.46,
+      "lon": 73.94,
+      "elevation": 629,
+      "slopePercent": 1.57,
+      "slopeDegrees": 0.9,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.46,
+      "lon": 73.96,
+      "elevation": 590,
+      "slopePercent": 1.36,
+      "slopeDegrees": 0.78,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.46,
+      "lon": 73.98,
+      "elevation": 585,
+      "slopePercent": 1.18,
+      "slopeDegrees": 0.67,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.46,
+      "lon": 74,
+      "elevation": 579,
+      "slopePercent": 1.44,
+      "slopeDegrees": 0.83,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.46,
+      "lon": 74.02,
+      "elevation": 583,
+      "slopePercent": 2.27,
+      "slopeDegrees": 1.3,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.46,
+      "lon": 74.04,
+      "elevation": 575,
+      "slopePercent": 1.57,
+      "slopeDegrees": 0.9,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.46,
+      "lon": 74.06,
+      "elevation": 582,
+      "slopePercent": 1.28,
+      "slopeDegrees": 0.73,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.48,
+      "lon": 73.66,
+      "elevation": 657,
+      "slopePercent": 5.84,
+      "slopeDegrees": 3.34,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.48,
+      "lon": 73.68,
+      "elevation": 744,
+      "slopePercent": 5.86,
+      "slopeDegrees": 3.35,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.48,
+      "lon": 73.7,
+      "elevation": 755,
+      "slopePercent": 2.47,
+      "slopeDegrees": 1.41,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.48,
+      "lon": 73.72,
+      "elevation": 732,
+      "slopePercent": 2.15,
+      "slopeDegrees": 1.23,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.48,
+      "lon": 73.74,
+      "elevation": 667,
+      "slopePercent": 2.47,
+      "slopeDegrees": 1.41,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.48,
+      "lon": 73.76,
+      "elevation": 637,
+      "slopePercent": 1.43,
+      "slopeDegrees": 0.82,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.48,
+      "lon": 73.78,
+      "elevation": 632,
+      "slopePercent": 3.34,
+      "slopeDegrees": 1.91,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.48,
+      "lon": 73.8,
+      "elevation": 576,
+      "slopePercent": 1.84,
+      "slopeDegrees": 1.05,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.48,
+      "lon": 73.82,
+      "elevation": 559,
+      "slopePercent": 2.43,
+      "slopeDegrees": 1.39,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.48,
+      "lon": 73.84,
+      "elevation": 678,
+      "slopePercent": 2.57,
+      "slopeDegrees": 1.47,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.48,
+      "lon": 73.86,
+      "elevation": 602,
+      "slopePercent": 1.8,
+      "slopeDegrees": 1.03,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.48,
+      "lon": 73.88,
+      "elevation": 657,
+      "slopePercent": 1.69,
+      "slopeDegrees": 0.97,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.48,
+      "lon": 73.9,
+      "elevation": 614,
+      "slopePercent": 1.95,
+      "slopeDegrees": 1.12,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.48,
+      "lon": 73.92,
+      "elevation": 591,
+      "slopePercent": 1.57,
+      "slopeDegrees": 0.9,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.48,
+      "lon": 73.94,
+      "elevation": 585,
+      "slopePercent": 1.3,
+      "slopeDegrees": 0.74,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.48,
+      "lon": 73.96,
+      "elevation": 572,
+      "slopePercent": 0.86,
+      "slopeDegrees": 0.5,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.48,
+      "lon": 73.98,
+      "elevation": 560,
+      "slopePercent": 0.89,
+      "slopeDegrees": 0.51,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.48,
+      "lon": 74,
+      "elevation": 553,
+      "slopePercent": 0.9,
+      "slopeDegrees": 0.52,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.48,
+      "lon": 74.02,
+      "elevation": 545,
+      "slopePercent": 1.06,
+      "slopeDegrees": 0.61,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.48,
+      "lon": 74.04,
+      "elevation": 553,
+      "slopePercent": 0.91,
+      "slopeDegrees": 0.52,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.48,
+      "lon": 74.06,
+      "elevation": 564,
+      "slopePercent": 0.89,
+      "slopeDegrees": 0.51,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.5,
+      "lon": 73.66,
+      "elevation": 641,
+      "slopePercent": 2.11,
+      "slopeDegrees": 1.21,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.5,
+      "lon": 73.68,
+      "elevation": 597,
+      "slopePercent": 3.85,
+      "slopeDegrees": 2.2,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.5,
+      "lon": 73.7,
+      "elevation": 611,
+      "slopePercent": 4.69,
+      "slopeDegrees": 2.68,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.5,
+      "lon": 73.72,
+      "elevation": 725,
+      "slopePercent": 3.37,
+      "slopeDegrees": 1.93,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.5,
+      "lon": 73.74,
+      "elevation": 671,
+      "slopePercent": 3.53,
+      "slopeDegrees": 2.02,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.5,
+      "lon": 73.76,
+      "elevation": 635,
+      "slopePercent": 0.82,
+      "slopeDegrees": 0.47,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.5,
+      "lon": 73.78,
+      "elevation": 686,
+      "slopePercent": 1.02,
+      "slopeDegrees": 0.58,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.5,
+      "lon": 73.8,
+      "elevation": 593,
+      "slopePercent": 3.17,
+      "slopeDegrees": 1.82,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.5,
+      "lon": 73.82,
+      "elevation": 575,
+      "slopePercent": 2.65,
+      "slopeDegrees": 1.52,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.5,
+      "lon": 73.84,
+      "elevation": 562,
+      "slopePercent": 2.39,
+      "slopeDegrees": 1.37,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.5,
+      "lon": 73.86,
+      "elevation": 583,
+      "slopePercent": 1.1,
+      "slopeDegrees": 0.63,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.5,
+      "lon": 73.88,
+      "elevation": 589,
+      "slopePercent": 1.89,
+      "slopeDegrees": 1.08,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.5,
+      "lon": 73.9,
+      "elevation": 586,
+      "slopePercent": 1.15,
+      "slopeDegrees": 0.66,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.5,
+      "lon": 73.92,
+      "elevation": 584,
+      "slopePercent": 0.64,
+      "slopeDegrees": 0.37,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.5,
+      "lon": 73.94,
+      "elevation": 575,
+      "slopePercent": 0.87,
+      "slopeDegrees": 0.5,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.5,
+      "lon": 73.96,
+      "elevation": 562,
+      "slopePercent": 0.67,
+      "slopeDegrees": 0.39,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.5,
+      "lon": 73.98,
+      "elevation": 551,
+      "slopePercent": 0.52,
+      "slopeDegrees": 0.3,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.5,
+      "lon": 74,
+      "elevation": 542,
+      "slopePercent": 0.37,
+      "slopeDegrees": 0.21,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.5,
+      "lon": 74.02,
+      "elevation": 536,
+      "slopePercent": 0.05,
+      "slopeDegrees": 0.03,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.5,
+      "lon": 74.04,
+      "elevation": 540,
+      "slopePercent": 0.77,
+      "slopeDegrees": 0.44,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.5,
+      "lon": 74.06,
+      "elevation": 550,
+      "slopePercent": 0.77,
+      "slopeDegrees": 0.44,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.52,
+      "lon": 73.66,
+      "elevation": 642,
+      "slopePercent": 3.53,
+      "slopeDegrees": 2.02,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.52,
+      "lon": 73.68,
+      "elevation": 576,
+      "slopePercent": 1.18,
+      "slopeDegrees": 0.68,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.52,
+      "lon": 73.7,
+      "elevation": 596,
+      "slopePercent": 1.22,
+      "slopeDegrees": 0.7,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.52,
+      "lon": 73.72,
+      "elevation": 596,
+      "slopePercent": 5.63,
+      "slopeDegrees": 3.23,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.52,
+      "lon": 73.74,
+      "elevation": 792,
+      "slopePercent": 1.97,
+      "slopeDegrees": 1.13,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.52,
+      "lon": 73.76,
+      "elevation": 670,
+      "slopePercent": 4.22,
+      "slopeDegrees": 2.42,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.52,
+      "lon": 73.78,
+      "elevation": 622,
+      "slopePercent": 1.83,
+      "slopeDegrees": 1.05,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.52,
+      "lon": 73.8,
+      "elevation": 655,
+      "slopePercent": 1.23,
+      "slopeDegrees": 0.71,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.52,
+      "lon": 73.82,
+      "elevation": 672,
+      "slopePercent": 2.02,
+      "slopeDegrees": 1.16,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.52,
+      "lon": 73.84,
+      "elevation": 572,
+      "slopePercent": 2.61,
+      "slopeDegrees": 1.49,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.52,
+      "lon": 73.86,
+      "elevation": 562,
+      "slopePercent": 0.7,
+      "slopeDegrees": 0.4,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.52,
+      "lon": 73.88,
+      "elevation": 573,
+      "slopePercent": 0.74,
+      "slopeDegrees": 0.43,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.52,
+      "lon": 73.9,
+      "elevation": 563,
+      "slopePercent": 1.1,
+      "slopeDegrees": 0.63,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.52,
+      "lon": 73.92,
+      "elevation": 565,
+      "slopePercent": 0.97,
+      "slopeDegrees": 0.55,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.52,
+      "lon": 73.94,
+      "elevation": 554,
+      "slopePercent": 0.75,
+      "slopeDegrees": 0.43,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.52,
+      "lon": 73.96,
+      "elevation": 556,
+      "slopePercent": 0.41,
+      "slopeDegrees": 0.24,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.52,
+      "lon": 73.98,
+      "elevation": 551,
+      "slopePercent": 0.18,
+      "slopeDegrees": 0.1,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.52,
+      "lon": 74,
+      "elevation": 549,
+      "slopePercent": 0.37,
+      "slopeDegrees": 0.21,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.52,
+      "lon": 74.02,
+      "elevation": 545,
+      "slopePercent": 0.69,
+      "slopeDegrees": 0.39,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.52,
+      "lon": 74.04,
+      "elevation": 522,
+      "slopePercent": 0.21,
+      "slopeDegrees": 0.12,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.52,
+      "lon": 74.06,
+      "elevation": 537,
+      "slopePercent": 0.76,
+      "slopeDegrees": 0.44,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.54,
+      "lon": 73.66,
+      "elevation": 568,
+      "slopePercent": 1.27,
+      "slopeDegrees": 0.73,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.54,
+      "lon": 73.68,
+      "elevation": 577,
+      "slopePercent": 0.72,
+      "slopeDegrees": 0.41,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.54,
+      "lon": 73.7,
+      "elevation": 561,
+      "slopePercent": 0.54,
+      "slopeDegrees": 0.31,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.54,
+      "lon": 73.72,
+      "elevation": 583,
+      "slopePercent": 3.63,
+      "slopeDegrees": 2.08,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.54,
+      "lon": 73.74,
+      "elevation": 711,
+      "slopePercent": 4.69,
+      "slopeDegrees": 2.69,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.54,
+      "lon": 73.76,
+      "elevation": 691,
+      "slopePercent": 3.18,
+      "slopeDegrees": 1.82,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.54,
+      "lon": 73.78,
+      "elevation": 606,
+      "slopePercent": 2.99,
+      "slopeDegrees": 1.71,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.54,
+      "lon": 73.8,
+      "elevation": 578,
+      "slopePercent": 2.02,
+      "slopeDegrees": 1.15,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.54,
+      "lon": 73.82,
+      "elevation": 596,
+      "slopePercent": 2.48,
+      "slopeDegrees": 1.42,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.54,
+      "lon": 73.84,
+      "elevation": 562,
+      "slopePercent": 1.04,
+      "slopeDegrees": 0.6,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.54,
+      "lon": 73.86,
+      "elevation": 552,
+      "slopePercent": 0.2,
+      "slopeDegrees": 0.11,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.54,
+      "lon": 73.88,
+      "elevation": 556,
+      "slopePercent": 0.44,
+      "slopeDegrees": 0.25,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.54,
+      "lon": 73.9,
+      "elevation": 538,
+      "slopePercent": 0.33,
+      "slopeDegrees": 0.19,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.54,
+      "lon": 73.92,
+      "elevation": 542,
+      "slopePercent": 0.25,
+      "slopeDegrees": 0.15,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.54,
+      "lon": 73.94,
+      "elevation": 543,
+      "slopePercent": 0.3,
+      "slopeDegrees": 0.17,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.54,
+      "lon": 73.96,
+      "elevation": 544,
+      "slopePercent": 0.26,
+      "slopeDegrees": 0.15,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.54,
+      "lon": 73.98,
+      "elevation": 554,
+      "slopePercent": 0.38,
+      "slopeDegrees": 0.22,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.54,
+      "lon": 74,
+      "elevation": 557,
+      "slopePercent": 0.4,
+      "slopeDegrees": 0.23,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.54,
+      "lon": 74.02,
+      "elevation": 547,
+      "slopePercent": 0.46,
+      "slopeDegrees": 0.26,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.54,
+      "lon": 74.04,
+      "elevation": 544,
+      "slopePercent": 1.03,
+      "slopeDegrees": 0.59,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.54,
+      "lon": 74.06,
+      "elevation": 538,
+      "slopePercent": 0.46,
+      "slopeDegrees": 0.26,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.56,
+      "lon": 73.66,
+      "elevation": 589,
+      "slopePercent": 4.73,
+      "slopeDegrees": 2.71,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.56,
+      "lon": 73.68,
+      "elevation": 607,
+      "slopePercent": 1.49,
+      "slopeDegrees": 0.85,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.56,
+      "lon": 73.7,
+      "elevation": 573,
+      "slopePercent": 1.22,
+      "slopeDegrees": 0.7,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.56,
+      "lon": 73.72,
+      "elevation": 564,
+      "slopePercent": 1.04,
+      "slopeDegrees": 0.6,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.56,
+      "lon": 73.74,
+      "elevation": 617,
+      "slopePercent": 3.13,
+      "slopeDegrees": 1.79,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.56,
+      "lon": 73.76,
+      "elevation": 582,
+      "slopePercent": 3.09,
+      "slopeDegrees": 1.77,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.56,
+      "lon": 73.78,
+      "elevation": 563,
+      "slopePercent": 1.38,
+      "slopeDegrees": 0.79,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.56,
+      "lon": 73.8,
+      "elevation": 566,
+      "slopePercent": 0.13,
+      "slopeDegrees": 0.08,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.56,
+      "lon": 73.82,
+      "elevation": 563,
+      "slopePercent": 0.9,
+      "slopeDegrees": 0.52,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.56,
+      "lon": 73.84,
+      "elevation": 570,
+      "slopePercent": 0.17,
+      "slopeDegrees": 0.1,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.56,
+      "lon": 73.86,
+      "elevation": 556,
+      "slopePercent": 0.3,
+      "slopeDegrees": 0.17,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.56,
+      "lon": 73.88,
+      "elevation": 560,
+      "slopePercent": 0.34,
+      "slopeDegrees": 0.2,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.56,
+      "lon": 73.9,
+      "elevation": 565,
+      "slopePercent": 0.93,
+      "slopeDegrees": 0.53,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.56,
+      "lon": 73.92,
+      "elevation": 575,
+      "slopePercent": 1.08,
+      "slopeDegrees": 0.62,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.56,
+      "lon": 73.94,
+      "elevation": 567,
+      "slopePercent": 0.81,
+      "slopeDegrees": 0.46,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.56,
+      "lon": 73.96,
+      "elevation": 556,
+      "slopePercent": 0.91,
+      "slopeDegrees": 0.52,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.56,
+      "lon": 73.98,
+      "elevation": 561,
+      "slopePercent": 0.62,
+      "slopeDegrees": 0.36,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.56,
+      "lon": 74,
+      "elevation": 565,
+      "slopePercent": 0.61,
+      "slopeDegrees": 0.35,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.56,
+      "lon": 74.02,
+      "elevation": 560,
+      "slopePercent": 0.83,
+      "slopeDegrees": 0.48,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.56,
+      "lon": 74.04,
+      "elevation": 567,
+      "slopePercent": 3.47,
+      "slopeDegrees": 1.99,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.56,
+      "lon": 74.06,
+      "elevation": 553,
+      "slopePercent": 1.36,
+      "slopeDegrees": 0.78,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.58,
+      "lon": 73.66,
+      "elevation": 775,
+      "slopePercent": 7.21,
+      "slopeDegrees": 4.12,
+      "classification": "MODERATE_SLOPE"
+    },
+    {
+      "lat": 18.58,
+      "lon": 73.68,
+      "elevation": 641,
+      "slopePercent": 4.71,
+      "slopeDegrees": 2.7,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.58,
+      "lon": 73.7,
+      "elevation": 591,
+      "slopePercent": 3.42,
+      "slopeDegrees": 1.96,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.58,
+      "lon": 73.72,
+      "elevation": 580,
+      "slopePercent": 1.14,
+      "slopeDegrees": 0.65,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.58,
+      "lon": 73.74,
+      "elevation": 573,
+      "slopePercent": 0.92,
+      "slopeDegrees": 0.53,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.58,
+      "lon": 73.76,
+      "elevation": 566,
+      "slopePercent": 0.68,
+      "slopeDegrees": 0.39,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.58,
+      "lon": 73.78,
+      "elevation": 547,
+      "slopePercent": 0.37,
+      "slopeDegrees": 0.21,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.58,
+      "lon": 73.8,
+      "elevation": 572,
+      "slopePercent": 0.22,
+      "slopeDegrees": 0.13,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.58,
+      "lon": 73.82,
+      "elevation": 556,
+      "slopePercent": 0.28,
+      "slopeDegrees": 0.16,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.58,
+      "lon": 73.84,
+      "elevation": 562,
+      "slopePercent": 0.2,
+      "slopeDegrees": 0.12,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.58,
+      "lon": 73.86,
+      "elevation": 560,
+      "slopePercent": 0.25,
+      "slopeDegrees": 0.14,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.58,
+      "lon": 73.88,
+      "elevation": 568,
+      "slopePercent": 0.7,
+      "slopeDegrees": 0.4,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.58,
+      "lon": 73.9,
+      "elevation": 576,
+      "slopePercent": 0.75,
+      "slopeDegrees": 0.43,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.58,
+      "lon": 73.92,
+      "elevation": 590,
+      "slopePercent": 0.57,
+      "slopeDegrees": 0.32,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.58,
+      "lon": 73.94,
+      "elevation": 573,
+      "slopePercent": 0.76,
+      "slopeDegrees": 0.43,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.58,
+      "lon": 73.96,
+      "elevation": 584,
+      "slopePercent": 1.05,
+      "slopeDegrees": 0.6,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.58,
+      "lon": 73.98,
+      "elevation": 580,
+      "slopePercent": 0.79,
+      "slopeDegrees": 0.45,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.58,
+      "lon": 74,
+      "elevation": 584,
+      "slopePercent": 0.73,
+      "slopeDegrees": 0.42,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.58,
+      "lon": 74.02,
+      "elevation": 584,
+      "slopePercent": 2.83,
+      "slopeDegrees": 1.62,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.58,
+      "lon": 74.04,
+      "elevation": 698,
+      "slopePercent": 0.32,
+      "slopeDegrees": 0.18,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.58,
+      "lon": 74.06,
+      "elevation": 591,
+      "slopePercent": 5.1,
+      "slopeDegrees": 2.92,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.6,
+      "lon": 73.66,
+      "elevation": 741,
+      "slopePercent": 4.25,
+      "slopeDegrees": 2.43,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.6,
+      "lon": 73.68,
+      "elevation": 686,
+      "slopePercent": 1.03,
+      "slopeDegrees": 0.59,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.6,
+      "lon": 73.7,
+      "elevation": 711,
+      "slopePercent": 1.89,
+      "slopeDegrees": 1.08,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.6,
+      "lon": 73.72,
+      "elevation": 611,
+      "slopePercent": 3.18,
+      "slopeDegrees": 1.82,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.6,
+      "lon": 73.74,
+      "elevation": 579,
+      "slopePercent": 1,
+      "slopeDegrees": 0.58,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.6,
+      "lon": 73.76,
+      "elevation": 569,
+      "slopePercent": 0.07,
+      "slopeDegrees": 0.04,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.6,
+      "lon": 73.78,
+      "elevation": 578,
+      "slopePercent": 0.27,
+      "slopeDegrees": 0.15,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.6,
+      "lon": 73.8,
+      "elevation": 563,
+      "slopePercent": 0.57,
+      "slopeDegrees": 0.33,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.6,
+      "lon": 73.82,
+      "elevation": 556,
+      "slopePercent": 0.34,
+      "slopeDegrees": 0.19,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.6,
+      "lon": 73.84,
+      "elevation": 562,
+      "slopePercent": 0.52,
+      "slopeDegrees": 0.3,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.6,
+      "lon": 73.86,
+      "elevation": 565,
+      "slopePercent": 0.99,
+      "slopeDegrees": 0.57,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.6,
+      "lon": 73.88,
+      "elevation": 586,
+      "slopePercent": 1.4,
+      "slopeDegrees": 0.8,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.6,
+      "lon": 73.9,
+      "elevation": 589,
+      "slopePercent": 0.81,
+      "slopeDegrees": 0.47,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.6,
+      "lon": 73.92,
+      "elevation": 600,
+      "slopePercent": 0.96,
+      "slopeDegrees": 0.55,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.6,
+      "lon": 73.94,
+      "elevation": 600,
+      "slopePercent": 0.52,
+      "slopeDegrees": 0.3,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.6,
+      "lon": 73.96,
+      "elevation": 602,
+      "slopePercent": 0.1,
+      "slopeDegrees": 0.06,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.6,
+      "lon": 73.98,
+      "elevation": 596,
+      "slopePercent": 0.44,
+      "slopeDegrees": 0.25,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.6,
+      "lon": 74,
+      "elevation": 597,
+      "slopePercent": 0.25,
+      "slopeDegrees": 0.14,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.6,
+      "lon": 74.02,
+      "elevation": 597,
+      "slopePercent": 0.44,
+      "slopeDegrees": 0.25,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.6,
+      "lon": 74.04,
+      "elevation": 579,
+      "slopePercent": 3.14,
+      "slopeDegrees": 1.8,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.6,
+      "lon": 74.06,
+      "elevation": 576,
+      "slopePercent": 0.84,
+      "slopeDegrees": 0.48,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.62,
+      "lon": 73.66,
+      "elevation": 626,
+      "slopePercent": 2.96,
+      "slopeDegrees": 1.7,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.62,
+      "lon": 73.68,
+      "elevation": 608,
+      "slopePercent": 1.69,
+      "slopeDegrees": 0.97,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.62,
+      "lon": 73.7,
+      "elevation": 620,
+      "slopePercent": 2.88,
+      "slopeDegrees": 1.65,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.62,
+      "lon": 73.72,
+      "elevation": 605,
+      "slopePercent": 1.18,
+      "slopeDegrees": 0.68,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.62,
+      "lon": 73.74,
+      "elevation": 579,
+      "slopePercent": 0.9,
+      "slopeDegrees": 0.52,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.62,
+      "lon": 73.76,
+      "elevation": 569,
+      "slopePercent": 0.52,
+      "slopeDegrees": 0.3,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.62,
+      "lon": 73.78,
+      "elevation": 557,
+      "slopePercent": 0.2,
+      "slopeDegrees": 0.11,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.62,
+      "lon": 73.8,
+      "elevation": 562,
+      "slopePercent": 0.51,
+      "slopeDegrees": 0.29,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.62,
+      "lon": 73.82,
+      "elevation": 571,
+      "slopePercent": 1.15,
+      "slopeDegrees": 0.66,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.62,
+      "lon": 73.84,
+      "elevation": 583,
+      "slopePercent": 1,
+      "slopeDegrees": 0.57,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.62,
+      "lon": 73.86,
+      "elevation": 596,
+      "slopePercent": 1.52,
+      "slopeDegrees": 0.87,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.62,
+      "lon": 73.88,
+      "elevation": 625,
+      "slopePercent": 0.46,
+      "slopeDegrees": 0.26,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.62,
+      "lon": 73.9,
+      "elevation": 609,
+      "slopePercent": 0.29,
+      "slopeDegrees": 0.16,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.62,
+      "lon": 73.92,
+      "elevation": 631,
+      "slopePercent": 0.32,
+      "slopeDegrees": 0.18,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.62,
+      "lon": 73.94,
+      "elevation": 596,
+      "slopePercent": 1.46,
+      "slopeDegrees": 0.83,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.62,
+      "lon": 73.96,
+      "elevation": 582,
+      "slopePercent": 1.27,
+      "slopeDegrees": 0.73,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.62,
+      "lon": 73.98,
+      "elevation": 561,
+      "slopePercent": 0.91,
+      "slopeDegrees": 0.52,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.62,
+      "lon": 74,
+      "elevation": 595,
+      "slopePercent": 0.5,
+      "slopeDegrees": 0.29,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.62,
+      "lon": 74.02,
+      "elevation": 579,
+      "slopePercent": 0.97,
+      "slopeDegrees": 0.55,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.62,
+      "lon": 74.04,
+      "elevation": 560,
+      "slopePercent": 0.65,
+      "slopeDegrees": 0.37,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.62,
+      "lon": 74.06,
+      "elevation": 554,
+      "slopePercent": 0.9,
+      "slopeDegrees": 0.52,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.64,
+      "lon": 73.66,
+      "elevation": 615,
+      "slopePercent": 0.53,
+      "slopeDegrees": 0.3,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.64,
+      "lon": 73.68,
+      "elevation": 611,
+      "slopePercent": 0.89,
+      "slopeDegrees": 0.51,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.64,
+      "lon": 73.7,
+      "elevation": 583,
+      "slopePercent": 1.29,
+      "slopeDegrees": 0.74,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.64,
+      "lon": 73.72,
+      "elevation": 581,
+      "slopePercent": 0.81,
+      "slopeDegrees": 0.46,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.64,
+      "lon": 73.74,
+      "elevation": 566,
+      "slopePercent": 0.37,
+      "slopeDegrees": 0.21,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.64,
+      "lon": 73.76,
+      "elevation": 568,
+      "slopePercent": 1.03,
+      "slopeDegrees": 0.59,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.64,
+      "lon": 73.78,
+      "elevation": 583,
+      "slopePercent": 0.97,
+      "slopeDegrees": 0.55,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.64,
+      "lon": 73.8,
+      "elevation": 580,
+      "slopePercent": 1.03,
+      "slopeDegrees": 0.59,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.64,
+      "lon": 73.82,
+      "elevation": 602,
+      "slopePercent": 0.94,
+      "slopeDegrees": 0.54,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.64,
+      "lon": 73.84,
+      "elevation": 598,
+      "slopePercent": 0.51,
+      "slopeDegrees": 0.29,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.64,
+      "lon": 73.86,
+      "elevation": 616,
+      "slopePercent": 0.08,
+      "slopeDegrees": 0.05,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.64,
+      "lon": 73.88,
+      "elevation": 601,
+      "slopePercent": 1.39,
+      "slopeDegrees": 0.8,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.64,
+      "lon": 73.9,
+      "elevation": 578,
+      "slopePercent": 0.97,
+      "slopeDegrees": 0.56,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.64,
+      "lon": 73.92,
+      "elevation": 596,
+      "slopePercent": 1.37,
+      "slopeDegrees": 0.78,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.64,
+      "lon": 73.94,
+      "elevation": 561,
+      "slopePercent": 1.37,
+      "slopeDegrees": 0.79,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.64,
+      "lon": 73.96,
+      "elevation": 559,
+      "slopePercent": 0.15,
+      "slopeDegrees": 0.09,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.64,
+      "lon": 73.98,
+      "elevation": 558,
+      "slopePercent": 0.66,
+      "slopeDegrees": 0.38,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.64,
+      "lon": 74,
+      "elevation": 585,
+      "slopePercent": 0.64,
+      "slopeDegrees": 0.37,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.64,
+      "lon": 74.02,
+      "elevation": 575,
+      "slopePercent": 0.86,
+      "slopeDegrees": 0.49,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.64,
+      "lon": 74.04,
+      "elevation": 567,
+      "slopePercent": 0.95,
+      "slopeDegrees": 0.54,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.64,
+      "lon": 74.06,
+      "elevation": 538,
+      "slopePercent": 1.38,
+      "slopeDegrees": 0.79,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.66,
+      "lon": 73.66,
+      "elevation": 604,
+      "slopePercent": 0.98,
+      "slopeDegrees": 0.56,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.66,
+      "lon": 73.68,
+      "elevation": 587,
+      "slopePercent": 1.11,
+      "slopeDegrees": 0.64,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.66,
+      "lon": 73.7,
+      "elevation": 572,
+      "slopePercent": 0.41,
+      "slopeDegrees": 0.23,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.66,
+      "lon": 73.72,
+      "elevation": 574,
+      "slopePercent": 0.66,
+      "slopeDegrees": 0.38,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.66,
+      "lon": 73.74,
+      "elevation": 588,
+      "slopePercent": 1.59,
+      "slopeDegrees": 0.91,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.66,
+      "lon": 73.76,
+      "elevation": 611,
+      "slopePercent": 1.15,
+      "slopeDegrees": 0.66,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.66,
+      "lon": 73.78,
+      "elevation": 598,
+      "slopePercent": 0.45,
+      "slopeDegrees": 0.26,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.66,
+      "lon": 73.8,
+      "elevation": 603,
+      "slopePercent": 0.25,
+      "slopeDegrees": 0.15,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.66,
+      "lon": 73.82,
+      "elevation": 608,
+      "slopePercent": 0.5,
+      "slopeDegrees": 0.29,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.66,
+      "lon": 73.84,
+      "elevation": 600,
+      "slopePercent": 0.45,
+      "slopeDegrees": 0.26,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.66,
+      "lon": 73.86,
+      "elevation": 598,
+      "slopePercent": 1.34,
+      "slopeDegrees": 0.77,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.66,
+      "lon": 73.88,
+      "elevation": 578,
+      "slopePercent": 1.13,
+      "slopeDegrees": 0.65,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.66,
+      "lon": 73.9,
+      "elevation": 566,
+      "slopePercent": 0.12,
+      "slopeDegrees": 0.07,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.66,
+      "lon": 73.92,
+      "elevation": 573,
+      "slopePercent": 0.42,
+      "slopeDegrees": 0.24,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.66,
+      "lon": 73.94,
+      "elevation": 549,
+      "slopePercent": 0.37,
+      "slopeDegrees": 0.21,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.66,
+      "lon": 73.96,
+      "elevation": 576,
+      "slopePercent": 0.27,
+      "slopeDegrees": 0.16,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.66,
+      "lon": 73.98,
+      "elevation": 551,
+      "slopePercent": 0.15,
+      "slopeDegrees": 0.09,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.66,
+      "lon": 74,
+      "elevation": 573,
+      "slopePercent": 0.75,
+      "slopeDegrees": 0.43,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.66,
+      "lon": 74.02,
+      "elevation": 546,
+      "slopePercent": 0.71,
+      "slopeDegrees": 0.4,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.66,
+      "lon": 74.04,
+      "elevation": 544,
+      "slopePercent": 0.26,
+      "slopeDegrees": 0.15,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.66,
+      "lon": 74.06,
+      "elevation": 556,
+      "slopePercent": 0.95,
+      "slopeDegrees": 0.55,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.68,
+      "lon": 73.66,
+      "elevation": 590,
+      "slopePercent": 0.82,
+      "slopeDegrees": 0.47,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.68,
+      "lon": 73.68,
+      "elevation": 575,
+      "slopePercent": 0.22,
+      "slopeDegrees": 0.12,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.68,
+      "lon": 73.7,
+      "elevation": 595,
+      "slopePercent": 0.83,
+      "slopeDegrees": 0.48,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.68,
+      "lon": 73.72,
+      "elevation": 605,
+      "slopePercent": 0.81,
+      "slopeDegrees": 0.46,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.68,
+      "lon": 73.74,
+      "elevation": 625,
+      "slopePercent": 0.35,
+      "slopeDegrees": 0.2,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.68,
+      "lon": 73.76,
+      "elevation": 618,
+      "slopePercent": 0.65,
+      "slopeDegrees": 0.37,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.68,
+      "lon": 73.78,
+      "elevation": 601,
+      "slopePercent": 0.81,
+      "slopeDegrees": 0.47,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.68,
+      "lon": 73.8,
+      "elevation": 584,
+      "slopePercent": 0.89,
+      "slopeDegrees": 0.51,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.68,
+      "lon": 73.82,
+      "elevation": 580,
+      "slopePercent": 0.52,
+      "slopeDegrees": 0.3,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.68,
+      "lon": 73.84,
+      "elevation": 581,
+      "slopePercent": 0.51,
+      "slopeDegrees": 0.29,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.68,
+      "lon": 73.86,
+      "elevation": 561,
+      "slopePercent": 0.49,
+      "slopeDegrees": 0.28,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.68,
+      "lon": 73.88,
+      "elevation": 564,
+      "slopePercent": 1.38,
+      "slopeDegrees": 0.79,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.68,
+      "lon": 73.9,
+      "elevation": 577,
+      "slopePercent": 0.95,
+      "slopeDegrees": 0.54,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.68,
+      "lon": 73.92,
+      "elevation": 591,
+      "slopePercent": 0.76,
+      "slopeDegrees": 0.44,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.68,
+      "lon": 73.94,
+      "elevation": 577,
+      "slopePercent": 1.26,
+      "slopeDegrees": 0.72,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.68,
+      "lon": 73.96,
+      "elevation": 571,
+      "slopePercent": 0.42,
+      "slopeDegrees": 0.24,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.68,
+      "lon": 73.98,
+      "elevation": 564,
+      "slopePercent": 0.85,
+      "slopeDegrees": 0.49,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.68,
+      "lon": 74,
+      "elevation": 552,
+      "slopePercent": 0.68,
+      "slopeDegrees": 0.39,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.68,
+      "lon": 74.02,
+      "elevation": 568,
+      "slopePercent": 1.02,
+      "slopeDegrees": 0.58,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.68,
+      "lon": 74.04,
+      "elevation": 562,
+      "slopePercent": 0.9,
+      "slopeDegrees": 0.52,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.68,
+      "lon": 74.06,
+      "elevation": 572,
+      "slopePercent": 0.84,
+      "slopeDegrees": 0.48,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.7,
+      "lon": 73.66,
+      "elevation": 586,
+      "slopePercent": 1.44,
+      "slopeDegrees": 0.82,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.7,
+      "lon": 73.68,
+      "elevation": 595,
+      "slopePercent": 0.97,
+      "slopeDegrees": 0.56,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.7,
+      "lon": 73.7,
+      "elevation": 591,
+      "slopePercent": 0.1,
+      "slopeDegrees": 0.06,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.7,
+      "lon": 73.72,
+      "elevation": 591,
+      "slopePercent": 0.38,
+      "slopeDegrees": 0.22,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.7,
+      "lon": 73.74,
+      "elevation": 581,
+      "slopePercent": 0.89,
+      "slopeDegrees": 0.51,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.7,
+      "lon": 73.76,
+      "elevation": 597,
+      "slopePercent": 0.92,
+      "slopeDegrees": 0.53,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.7,
+      "lon": 73.78,
+      "elevation": 593,
+      "slopePercent": 0.69,
+      "slopeDegrees": 0.4,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.7,
+      "lon": 73.8,
+      "elevation": 570,
+      "slopePercent": 0.57,
+      "slopeDegrees": 0.33,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.7,
+      "lon": 73.82,
+      "elevation": 585,
+      "slopePercent": 0.89,
+      "slopeDegrees": 0.51,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.7,
+      "lon": 73.84,
+      "elevation": 589,
+      "slopePercent": 0.65,
+      "slopeDegrees": 0.37,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.7,
+      "lon": 73.86,
+      "elevation": 586,
+      "slopePercent": 2.52,
+      "slopeDegrees": 1.44,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.7,
+      "lon": 73.88,
+      "elevation": 637,
+      "slopePercent": 1.86,
+      "slopeDegrees": 1.07,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.7,
+      "lon": 73.9,
+      "elevation": 597,
+      "slopePercent": 1.51,
+      "slopeDegrees": 0.86,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.7,
+      "lon": 73.92,
+      "elevation": 607,
+      "slopePercent": 0.44,
+      "slopeDegrees": 0.25,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.7,
+      "lon": 73.94,
+      "elevation": 601,
+      "slopePercent": 0.43,
+      "slopeDegrees": 0.24,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.7,
+      "lon": 73.96,
+      "elevation": 589,
+      "slopePercent": 0.47,
+      "slopeDegrees": 0.27,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.7,
+      "lon": 73.98,
+      "elevation": 583,
+      "slopePercent": 1.09,
+      "slopeDegrees": 0.63,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.7,
+      "lon": 74,
+      "elevation": 543,
+      "slopePercent": 0.36,
+      "slopeDegrees": 0.2,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.7,
+      "lon": 74.02,
+      "elevation": 590,
+      "slopePercent": 1.2,
+      "slopeDegrees": 0.69,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.7,
+      "lon": 74.04,
+      "elevation": 584,
+      "slopePercent": 1.01,
+      "slopeDegrees": 0.58,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.7,
+      "lon": 74.06,
+      "elevation": 587,
+      "slopePercent": 0.67,
+      "slopeDegrees": 0.38,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.72,
+      "lon": 73.66,
+      "elevation": 651,
+      "slopePercent": 1.71,
+      "slopeDegrees": 0.98,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.72,
+      "lon": 73.68,
+      "elevation": 618,
+      "slopePercent": 1.41,
+      "slopeDegrees": 0.81,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.72,
+      "lon": 73.7,
+      "elevation": 596,
+      "slopePercent": 0.62,
+      "slopeDegrees": 0.35,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.72,
+      "lon": 73.72,
+      "elevation": 592,
+      "slopePercent": 0.28,
+      "slopeDegrees": 0.16,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.72,
+      "lon": 73.74,
+      "elevation": 586,
+      "slopePercent": 0.82,
+      "slopeDegrees": 0.47,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.72,
+      "lon": 73.76,
+      "elevation": 579,
+      "slopePercent": 0.26,
+      "slopeDegrees": 0.15,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.72,
+      "lon": 73.78,
+      "elevation": 589,
+      "slopePercent": 0.72,
+      "slopeDegrees": 0.41,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.72,
+      "lon": 73.8,
+      "elevation": 608,
+      "slopePercent": 1.35,
+      "slopeDegrees": 0.77,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.72,
+      "lon": 73.82,
+      "elevation": 614,
+      "slopePercent": 1.13,
+      "slopeDegrees": 0.64,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.72,
+      "lon": 73.84,
+      "elevation": 610,
+      "slopePercent": 1.89,
+      "slopeDegrees": 1.08,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.72,
+      "lon": 73.86,
+      "elevation": 661,
+      "slopePercent": 1.34,
+      "slopeDegrees": 0.77,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.72,
+      "lon": 73.88,
+      "elevation": 646,
+      "slopePercent": 0.8,
+      "slopeDegrees": 0.46,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.72,
+      "lon": 73.9,
+      "elevation": 636,
+      "slopePercent": 0.86,
+      "slopeDegrees": 0.5,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.72,
+      "lon": 73.92,
+      "elevation": 610,
+      "slopePercent": 1.51,
+      "slopeDegrees": 0.87,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.72,
+      "lon": 73.94,
+      "elevation": 576,
+      "slopePercent": 1.41,
+      "slopeDegrees": 0.81,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.72,
+      "lon": 73.96,
+      "elevation": 562,
+      "slopePercent": 0.34,
+      "slopeDegrees": 0.2,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.72,
+      "lon": 73.98,
+      "elevation": 562,
+      "slopePercent": 0.29,
+      "slopeDegrees": 0.16,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.72,
+      "lon": 74,
+      "elevation": 566,
+      "slopePercent": 1.26,
+      "slopeDegrees": 0.72,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.72,
+      "lon": 74.02,
+      "elevation": 599,
+      "slopePercent": 1,
+      "slopeDegrees": 0.57,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.72,
+      "lon": 74.04,
+      "elevation": 607,
+      "slopePercent": 1.89,
+      "slopeDegrees": 1.08,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.72,
+      "lon": 74.06,
+      "elevation": 601,
+      "slopePercent": 1.01,
+      "slopeDegrees": 0.58,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.74,
+      "lon": 73.66,
+      "elevation": 617,
+      "slopePercent": 1.53,
+      "slopeDegrees": 0.88,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.74,
+      "lon": 73.68,
+      "elevation": 619,
+      "slopePercent": 0.57,
+      "slopeDegrees": 0.33,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.74,
+      "lon": 73.7,
+      "elevation": 593,
+      "slopePercent": 0.52,
+      "slopeDegrees": 0.3,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.74,
+      "lon": 73.72,
+      "elevation": 598,
+      "slopePercent": 0.59,
+      "slopeDegrees": 0.34,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.74,
+      "lon": 73.74,
+      "elevation": 615,
+      "slopePercent": 1.34,
+      "slopeDegrees": 0.77,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.74,
+      "lon": 73.76,
+      "elevation": 586,
+      "slopePercent": 0.8,
+      "slopeDegrees": 0.46,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.74,
+      "lon": 73.78,
+      "elevation": 584,
+      "slopePercent": 0.93,
+      "slopeDegrees": 0.53,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.74,
+      "lon": 73.8,
+      "elevation": 624,
+      "slopePercent": 1.41,
+      "slopeDegrees": 0.81,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.74,
+      "lon": 73.82,
+      "elevation": 635,
+      "slopePercent": 1.23,
+      "slopeDegrees": 0.7,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.74,
+      "lon": 73.84,
+      "elevation": 657,
+      "slopePercent": 2.12,
+      "slopeDegrees": 1.21,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.74,
+      "lon": 73.86,
+      "elevation": 632,
+      "slopePercent": 1.67,
+      "slopeDegrees": 0.96,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.74,
+      "lon": 73.88,
+      "elevation": 613,
+      "slopePercent": 1.64,
+      "slopeDegrees": 0.94,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.74,
+      "lon": 73.9,
+      "elevation": 603,
+      "slopePercent": 1.64,
+      "slopeDegrees": 0.94,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.74,
+      "lon": 73.92,
+      "elevation": 584,
+      "slopePercent": 1.49,
+      "slopeDegrees": 0.85,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.74,
+      "lon": 73.94,
+      "elevation": 564,
+      "slopePercent": 0.54,
+      "slopeDegrees": 0.31,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.74,
+      "lon": 73.96,
+      "elevation": 585,
+      "slopePercent": 1.27,
+      "slopeDegrees": 0.73,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.74,
+      "lon": 73.98,
+      "elevation": 595,
+      "slopePercent": 1.49,
+      "slopeDegrees": 0.85,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.74,
+      "lon": 74,
+      "elevation": 583,
+      "slopePercent": 0.78,
+      "slopeDegrees": 0.45,
+      "classification": "BASIN_DEPRESSION"
+    },
+    {
+      "lat": 18.74,
+      "lon": 74.02,
+      "elevation": 601,
+      "slopePercent": 2.02,
+      "slopeDegrees": 1.16,
+      "classification": "FLAT_PLAIN"
+    },
+    {
+      "lat": 18.74,
+      "lon": 74.04,
+      "elevation": 668,
+      "slopePercent": 2.83,
+      "slopeDegrees": 1.62,
+      "classification": "GENTLE_SLOPE"
+    },
+    {
+      "lat": 18.74,
+      "lon": 74.06,
+      "elevation": 630,
+      "slopePercent": 2.22,
+      "slopeDegrees": 1.27,
+      "classification": "FLAT_PLAIN"
+    }
+  ]
+}
