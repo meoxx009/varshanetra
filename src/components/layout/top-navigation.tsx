@@ -37,9 +37,10 @@ import { useTranslations, useLocale } from "@/lib/i18n/context";
 
 interface TopNavigationProps {
   onMenuClick: () => void;
+  isMobileNavOpen?: boolean;
 }
 
-export function TopNavigation({ onMenuClick }: TopNavigationProps) {
+export function TopNavigation({ onMenuClick, isMobileNavOpen = false }: TopNavigationProps) {
   const pathname = usePathname();
   const locale = useLocale();
   const { profile, logout } = useAuth();
@@ -221,9 +222,20 @@ export function TopNavigation({ onMenuClick }: TopNavigationProps) {
         {/* Left: Mobile hamburger & Interactive Location Context Selector */}
         <div className="flex items-center gap-1.5 sm:gap-3 min-w-0">
           <button
+            type="button"
             onClick={onMenuClick}
-            className="lg:hidden p-2.5 rounded-lg text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 transition min-w-[44px] min-h-[44px] flex items-center justify-center shrink-0"
-            aria-label="Open mobile navigation drawer"
+            className="lg:hidden p-2 rounded-lg text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 transition w-12 h-12 min-w-[48px] min-h-[48px] flex items-center justify-center shrink-0 cursor-pointer focus:outline-hidden focus:ring-2 focus:ring-[#0F3D66] active:scale-95"
+            aria-label={
+              isMobileNavOpen
+                ? locale === "hi"
+                  ? "नेविगेशन मेनू बंद करें"
+                  : "Close navigation"
+                : locale === "hi"
+                  ? "नेविगेशन मेनू खोलें"
+                  : "Open navigation"
+            }
+            aria-expanded={isMobileNavOpen}
+            aria-controls="mobile-navigation-drawer"
           >
             <Menu className="w-5 h-5" />
           </button>

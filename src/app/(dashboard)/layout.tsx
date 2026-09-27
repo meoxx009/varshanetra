@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useCallback } from "react";
 import { AppSidebar } from "@/components/layout/app-sidebar";
 import { MobileSidebar } from "@/components/layout/mobile-sidebar";
 import { TopNavigation } from "@/components/layout/top-navigation";
@@ -12,6 +12,14 @@ export default function DashboardLayout({
   children: React.ReactNode;
 }) {
   const [isMobileNavOpen, setIsMobileNavOpen] = useState(false);
+
+  const handleOpenMobileNav = useCallback(() => {
+    setIsMobileNavOpen(true);
+  }, []);
+
+  const handleCloseMobileNav = useCallback(() => {
+    setIsMobileNavOpen(false);
+  }, []);
 
   return (
     <div className="min-h-screen flex bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 antialiased">
@@ -29,12 +37,15 @@ export default function DashboardLayout({
       {/* Mobile Drawer */}
       <MobileSidebar
         isOpen={isMobileNavOpen}
-        onClose={() => setIsMobileNavOpen(false)}
+        onClose={handleCloseMobileNav}
       />
 
       {/* Main Command Workspace */}
       <div className="flex-1 flex flex-col min-w-0 overflow-hidden">
-        <TopNavigation onMenuClick={() => setIsMobileNavOpen(true)} />
+        <TopNavigation
+          onMenuClick={handleOpenMobileNav}
+          isMobileNavOpen={isMobileNavOpen}
+        />
         <DashboardSubtleBanner />
 
         <main

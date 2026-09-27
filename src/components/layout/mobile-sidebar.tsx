@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useEffect } from "react";
+import React, { useEffect, useRef } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { X, Shield } from "lucide-react";
@@ -59,6 +59,9 @@ export function MobileSidebar({ isOpen, onClose }: MobileSidebarProps) {
   const tNav = useTranslations("navigation");
   const tCommon = useTranslations("common");
 
+  // Track previous pathname so we ONLY close on genuine route transitions
+  const prevPathnameRef = useRef(pathname);
+
   const getNavTitle = (item: { title: string; href: string }) => {
     const key = NAV_ITEM_TRANSLATION_KEYS[item.href];
     return key ? tNav(key) : item.title;
@@ -69,24 +72,27 @@ export function MobileSidebar({ isOpen, onClose }: MobileSidebarProps) {
     return key ? tNav(key) : sectionTitle;
   };
 
-  // Close mobile drawer when route changes
+  // Close mobile drawer ONLY when route genuinely changes, never on initial mount or re-render
   useEffect(() => {
-    onClose();
+    if (prevPathnameRef.current !== pathname) {
+      prevPathnameRef.current = pathname;
+      onClose();
+    }
   }, [pathname, onClose]);
 
-  // Prevent background scrolling when open
+  // Prevent background scrolling when open, restoring original body overflow when closed
   useEffect(() => {
-    if (isOpen) {
-      document.body.style.overflow = "hidden";
-    } else {
-      document.body.style.overflow = "unset";
-    }
+    if (!isOpen) return;
+
+    const originalOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+
     return () => {
-      document.body.style.overflow = "unset";
+      document.body.style.overflow = originalOverflow || "unset";
     };
   }, [isOpen]);
 
-  // Handle Escape key
+  // Handle Escape key to dismiss drawer
   useEffect(() => {
     if (!isOpen) return;
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -102,10 +108,13 @@ export function MobileSidebar({ isOpen, onClose }: MobileSidebarProps) {
   if (!isOpen) return null;
 
   return (
-    <div className="fixed inset-0 z-50 lg:hidden">
+    <div
+      id="mobile-navigation-drawer"
+      className="fixed inset-0 z-[1200] lg:hidden"
+    >
       {/* Backdrop */}
       <div
-        className="fixed inset-0 bg-slate-900/60 backdrop-blur-xs transition-opacity"
+        className="fixed inset-0 bg-slate-900/60 backdrop-blur-xs transition-opacity cursor-pointer"
         onClick={onClose}
         aria-hidden="true"
       />
@@ -115,10 +124,10 @@ export function MobileSidebar({ isOpen, onClose }: MobileSidebarProps) {
         role="dialog"
         aria-modal="true"
         aria-label={tNav("commandCenter")}
-        className="fixed inset-y-0 left-0 max-w-xs w-full bg-white dark:bg-slate-900 shadow-2xl border-r border-slate-200 dark:border-slate-800 flex flex-col z-50 animate-in slide-in-from-left duration-200"
+        className="fixed inset-y-0 left-0 max-w-xs w-[85vw] sm:w-80 h-full max-h-[100dvh] min-h-[100dvh] bg-white dark:bg-slate-900 shadow-2xl border-r border-slate-200 dark:border-slate-800 flex flex-col z-[1201] animate-in slide-in-from-left duration-200 overscroll-contain"
       >
         {/* Header */}
-        <div className="h-16 flex items-center justify-between px-4 border-b border-slate-200 dark:border-slate-800">
+        <div className="h-16 flex items-center justify-between px-4 border-b border-slate-200 dark:border-slate-800 shrink-0">
           <div className="flex items-center gap-2.5">
             <div className="w-8 h-8 rounded-md bg-[#0F3D66] text-white flex items-center justify-center shrink-0">
               <Shield className="w-5 h-5" />
@@ -128,8 +137,9 @@ export function MobileSidebar({ isOpen, onClose }: MobileSidebarProps) {
             </span>
           </div>
           <button
+            type="button"
             onClick={onClose}
-            className="p-1.5 rounded-lg text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800 transition cursor-pointer"
+            className="w-11 h-11 min-w-[44px] min-h-[44px] rounded-lg text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800 flex items-center justify-center transition cursor-pointer"
             aria-label={locale === "hi" ? "नेविगेशन मेनू बंद करें" : "Close navigation menu"}
           >
             <X className="w-5 h-5" />
@@ -137,7 +147,7 @@ export function MobileSidebar({ isOpen, onClose }: MobileSidebarProps) {
         </div>
 
         {/* Navigation Items */}
-        <div className="flex-1 overflow-y-auto p-4 space-y-5">
+        <div className="flex-1 overflow-y-auto p-4 space-y-5 overscroll-contain touch-auto">
           {NAV_SECTIONS.map((section, sIdx) => (
             <div key={sIdx} className="space-y-1">
               <p className="px-2 text-[10px] font-bold uppercase tracking-wider text-slate-400 dark:text-slate-500">
@@ -145,7 +155,9 @@ export function MobileSidebar({ isOpen, onClose }: MobileSidebarProps) {
               </p>
               {section.items.map((item) => {
                 const Icon = item.icon;
-                const isActive = pathname === item.href || pathname.startsWith(`${item.href}/`);
+                const isActive =
+                  pathname === item.href ||
+                  (item.href !== "/dashboard" && pathname.startsWith(`${item.href}/`));
                 const localizedTitle = getNavTitle(item);
 
                 return (
@@ -154,16 +166,16 @@ export function MobileSidebar({ isOpen, onClose }: MobileSidebarProps) {
                     href={item.href}
                     onClick={onClose}
                     className={cn(
-                      "flex items-center gap-3 px-3 py-2.5 rounded-lg text-xs font-medium transition",
+                      "flex items-center gap-3 px-3 py-2.5 rounded-lg text-xs font-medium transition min-h-[44px]",
                       isActive
                         ? "bg-[#0F3D66] text-white font-semibold shadow-xs"
                         : "text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800"
                     )}
                   >
-                    <Icon className={cn("w-4 h-4", isActive ? "text-white" : "text-slate-500")} />
-                    <span className="flex-1">{localizedTitle}</span>
+                    <Icon className={cn("w-4 h-4 shrink-0", isActive ? "text-white" : "text-slate-500")} />
+                    <span className="flex-1 truncate">{localizedTitle}</span>
                     {item.badge && (
-                      <span className="bg-red-500 text-white text-[10px] font-bold px-1.5 py-0.2 rounded-full">
+                      <span className="bg-red-500 text-white text-[10px] font-bold px-1.5 py-0.2 rounded-full shrink-0">
                         {item.badge === "Live" && locale === "hi" ? "लाइव" : item.badge}
                       </span>
                     )}
@@ -175,7 +187,7 @@ export function MobileSidebar({ isOpen, onClose }: MobileSidebarProps) {
         </div>
 
         {/* Mobile Drawer Footer with Language Switcher */}
-        <div className="p-4 border-t border-slate-200 dark:border-slate-800 bg-slate-50 dark:bg-slate-900/50 text-[11px] text-slate-500 flex justify-between items-center">
+        <div className="p-4 border-t border-slate-200 dark:border-slate-800 bg-slate-50 dark:bg-slate-900/50 text-[11px] text-slate-500 flex justify-between items-center shrink-0">
           <LanguageSwitcher compact />
           <span className="font-semibold text-slate-700 dark:text-slate-300">{tCommon("systemBadge")}</span>
         </div>
